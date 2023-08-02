@@ -1,1 +1,1 @@
-ALX System Engineering Devops Readme
+First script displays the current working directory
