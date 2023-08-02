@@ -1,0 +1,2 @@
+#!/bin/bash
+find /tmp/u -type f -regex '.*/[A-Z].*'
